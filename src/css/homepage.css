@@ -3,12 +3,18 @@
     justify-content: center;
 }
 
-.contact_info{
+
+.homepage_card{
     width: 30%;
     margin: 1rem;
 }
 
-.homepage_card{
-    width: 30%;
-}
-
+@media only screen and (max-width: 768px) {
+    .column_div {
+        flex-direction: column;
+    }
+    
+    .homepage_card{
+        width: 80%;
+    }
+  }

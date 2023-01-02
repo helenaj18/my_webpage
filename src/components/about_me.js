@@ -5,7 +5,7 @@ function AboutMeComponent() {
   return (
     <div className="AboutMe">
       <div className = "header">
-            <h1>About me</h1>
+            <p>About me</p>
       </div>
       <div className='card about_me_card' id ='purple_card'>
 

@@ -4,7 +4,7 @@ function ProjectsComponent() {
   return (
     <div className="Projects">
         <div className = "header">
-            <h1>Projects</h1>
+            <p>Projects</p>
         </div>
         <div className='card project_card' id ='purple_card'>
           <h1>Ada konur</h1>
