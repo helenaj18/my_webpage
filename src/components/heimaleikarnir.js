@@ -1,4 +1,4 @@
-import '../css/resume.css'
+import '../css/pdfs.css'
 
 function HeimaleikarnirComponent() {
   return (

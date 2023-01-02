@@ -11,8 +11,9 @@ function HomepageComponent() {
         <div className='column_div'>
         <div className='card homepage_card' id ='purple_card'>
             <p>
-                Hi! Welcome to my website. Here you get a chance to learn more about me, what projects
-                I've worked on in the past, my work experience and other interests. Browse around and don't
+                Hi! Welcome to my website. I'm Helena, I live in New York but I'm originally from Iceland.
+                On this website, you get a chance to learn more <a href="/about_me">about me</a>, 
+                what <a href="/projects">projects</a> I've worked on in the past, my work experience and other interests. Browse around and don't
                 hesitate to contact me if you have any questions. </p>
         </div>
             <div className = "profile_pic">

@@ -20,7 +20,7 @@ function ProjectsComponent() {
             and hope that the platform can inspire young girls looking to start their university studies. 
             Check the instagram account out <a href= "https://www.instagram.com/ada_konur/">here</a> and feel free to follow!
           </p>
-          <img class="project_img" id = "ada" src="ada_konur.png" alt="ada konur logo"></img>
+          <img className="project_img" id = "ada" src="ada_konur.png" alt="ada konur logo"></img>
         </div>
         {/* TODO: insert instagram as a part of the card */}
         {/* <div>
@@ -37,7 +37,7 @@ function ProjectsComponent() {
             for the portal in the summer of 2022. I learned so much in the process, e.g. that three months in a 50% job
             was not enough time to get it done. So, I'm still working on it and hoping to launch the MVP in June 2023.
             </p>
-            <img class="project_img" id="fjarmalaport" src="Fjarmalaportid.png" alt="Fjarmalaportid logo"></img>
+            <img className="project_img" id="fjarmalaport" src="Fjarmalaportid.png" alt="Fjarmalaportid logo"></img>
           </div>
         </div>
 
@@ -50,8 +50,9 @@ function ProjectsComponent() {
               Girls in Tech that Reykjavík University hosts each year. I made a windmill, a hydroelectric power plant and
               a geothermal power plant and used the same generator, made by me, for all of them. I learned how to 3D print 
               that summer and finally gained real-life experience in using CAD applications to draw 3D models.
+              You can look at the final report <a href="/portaplants">here</a>, however, it is in Icelandic.
             </p>
-            <img class="project_img" id="portaplants" src="portaplants/vatnsorku_closeup.jpg" alt="portaplants hydroelectric power plant"></img>
+            <img className="project_img" id="portaplants" src="portaplants_photos/vatnsorku_closeup.jpg" alt="portaplants hydroelectric power plant"></img>
           </div>
         </div>
 
@@ -68,7 +69,7 @@ function ProjectsComponent() {
             , and our facebook page <a href="https://www.facebook.com/heimaleikarnir">here</a>.
             We have closed the website for now but by clicking <a href="/heimaleikarnir">here</a>, you can see a version of the website before it was taken down.
           </p>
-          <img class="project_img" id="heimaleikar" src="Heimaleikar_logo.png" alt="Heimaleikarnir logo"></img>
+          <img className="project_img" id="heimaleikar" src="Heimaleikar_logo.png" alt="Heimaleikarnir logo"></img>
           </div>
         </div>
     </div>
