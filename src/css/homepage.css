@@ -1,0 +1,14 @@
+.column_div{
+    display: flex;
+    justify-content: center;
+}
+
+.contact_info{
+    width: 30%;
+    margin: 1rem;
+}
+
+.homepage_card{
+    width: 30%;
+}
+

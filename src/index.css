@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+#purple_card{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  align-content: center;
+  border-color: #a25ce0;
+  box-shadow: 5px 5px 5px #a473ce;
+  padding: 1rem;
+}
+
+
+.header{
+  margin-top: 1rem;
+}

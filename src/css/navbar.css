@@ -1,0 +1,25 @@
+.nav-link {
+    padding-right: 1rem !important;
+    border-bottom: 2px solid transparent;
+    transition: all 200ms ease-in-out;
+    color: #410179;
+}
+
+.nav-link:hover {
+    border-bottom: 2px solid #410179;
+}
+
+
+.navbar-nav {
+    flex-direction: row;
+}
+
+.navbar {
+    background-color: #a473ce;;
+}
+
+
+.navbar_class{
+    align-items: right;
+}
+
